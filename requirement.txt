@@ -1,0 +1,12 @@
+# Requirements for Steel Connections Calculator
+# Calculadora de Conexiones Atornilladas y Soldadas
+
+# Core framework
+streamlit>=1.28.0
+
+# Numerical computing and data manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
